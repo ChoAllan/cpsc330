@@ -26,10 +26,10 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 | hw2 | Sept 20, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)| 
 | hw3 | Oct 04, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
 | hw4 | ~~Oct 13, 11:59pm~~<br> Oct 15, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
-| hw5 | Oct 25, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
+| hw5 | ~~Oct 25, 11:59pm~~ Oct 27, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
 | **Midterm** | Oct 28, during class time|[Canvas](https://canvas.ubc.ca/courses/78046) | [Canvas](https://canvas.ubc.ca/courses/78046) | 
 | hw6 | Nov 15, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
-| hw7 | Nov 22, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
+| hw7 | ~~Nov 15, 11:59pm~~ <br> Nov 17, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
 | hw8 | Nov 29, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
 | **Final exam** | TBD | [Canvas](https://canvas.ubc.ca/courses/78046) | [Canvas](https://canvas.ubc.ca/courses/78046) |
 
@@ -67,24 +67,24 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 | Oct 19 | [Regression metrics](lectures/10_regression-metrics) |  📹 <li>Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ)</li> |   more depth on metrics less depth on regression|
 | Oct 21 | [Ensembles](lecture/11_ensembles.ipynb) |  📹 <li>Pre-watch: [11.1](https://youtu.be/8litm1H7DLo),[11.2](https://youtu.be/EkFkY9QB2Hw)</li> | similar |
 |        |     |**Week 8 datasets**: <li>[Adult Census Income](https://www.kaggle.com/uciml/adult-census-income#)</li>  | |
-| Oct 26 | feature importances, feature selection | | feature importances is new, less depth on feature selection |
+| Oct 26 | [feature importances, model interpretation](lectures/12_feat-importances.ipynb) | 📹 <li>Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)</li> | feature importances is new, feature engineering is new |
 | Oct 28 | **Midterm**  |  |
-|  | **Part II: Unsupervised learning, transfer learning, different learning settings**  | | 
 |        |     | **Week 9 datasets**: <li>[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)</li> | |
-| Nov 2 |   Clustering |   | less depth |
-| Nov 4 |   Simple recommender systems | | less depth |
-|        |  | **Week 10 datasets**: <li>[Jester 1.7M jokes ratings dataset](https://www.kaggle.com/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset)</li> | |
-| Nov 9 |  Text data, embeddings, topic modeling  |  |   new |
+| Nov 2 |   [Feature engineering and feature selection](lectures/13_feature-engineering-selection.ipynb) | None | less depth |
+|  | **Part II: Unsupervised learning, transfer learning, different learning settings**  | | 
+| Nov 4 |   [Clustering](lectures/14_k-means-clustering.ipynb) |  📹 <li>Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8),[14.2](https://youtu.be/s6AvSZ1_l7I),[14.3](https://youtu.be/M5ilrhcL0oY)</li>  | less depth |
+|        |  | **Week 10 datasets**: <li>[Jester 1.7M jokes ratings dataset](https://www.kaggle.com/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset)</li> |
+| Nov 9 |   Simple recommender systems | | less depth ||
 | Nov 11 | _Midterm break - no class_  |  |
 |        |     | **Week 11 datasets**: <li></li> | |
-| Nov 16 | Neural networks and computer vision | |   less depth |
-| Nov 18 | Time series data |  | new |
+| Nov 16 |  Text data, embeddings, topic modeling  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>  |   new |
+| Nov 18 | Neural networks and computer vision | |   less depth |
 |        |     | **Week 12 datasets**: <li></li> | |
-| Nov 23 | Survival analysis |  |   new |
-|  | **Part III: Communication and ethics**  | |
-| Nov 25 | Communication introduction |  | new |
+| Nov 23 | Time series data |  | new |
+| Nov 25 | Survival analysis |  |   new |
+|  | **Part III: Communication, ethics, deployment**  | |
 |        |     | **Week 13 datasets**: <li></li> | |
-| Nov 30 | Communication and ethics |  |   new |
+| Nov 30 | Communication |  |   new |
 | Dec 2 |  Ethics |  | new |
 |        |     | **Week 14 datasets**: <li></li> | |
 | Dec 7 | Model deployment and conclusion |  |  new |
